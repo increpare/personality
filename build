@@ -1,0 +1,1 @@
+ openfl build html5 -minify -yui
